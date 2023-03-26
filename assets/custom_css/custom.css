@@ -1,0 +1,11 @@
+@media (max-width: 500px) {
+    .syscenter {
+        margin-top: 30%;
+    }
+}
+
+@media (min-width: 500px) {
+    .syscenter {
+        margin-top: 1%;
+    }
+}
